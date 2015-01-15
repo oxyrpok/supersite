@@ -1,0 +1,14 @@
+body {
+  margin: 100px;
+  background-color: #FFE4B5;
+}
+
+.first {
+  padding: 50px;
+  background-color: lightblue;
+  color: #48D1CC;
+  font-size: 28px;
+
+
+/*  margin: 100px; */
+}
