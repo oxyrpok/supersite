@@ -1,14 +1,19 @@
 body {
   margin: 100px;
-  background-color: #FFE4B5;
+  background-color: #33ECC1;
 }
 
 .first {
   padding: 50px;
-  background-color: lightblue;
-  color: #48D1CC;
+  background-color: #C2E2AC;
+  color: #336655;
   font-size: 28px;
+}
 
+.second {
+  padding: 50px;
+  background-color: #C2E2AC;
+  color: #336655;
+  font-size: 20px;
 
-/*  margin: 100px; */
 }
