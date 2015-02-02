@@ -15,5 +15,35 @@ body {
   background-color: #C2E2AC;
   color: #336655;
   font-size: 28px;
+}
 
+
+.header {
+  background-color: #e4cdaf;
+  color: #336655;
+  font-size: 28px;
+}
+
+.left-menu {
+  background-color: #b4e7e7;
+  color: #336655;
+  font-size: 28px;
+}
+
+.main {
+  background-color: #e1b4e7;
+  color: #336655;
+  font-size: 28px;
+}
+
+.right-menu {
+  background-color: #caec31;
+  color: #336655;
+  font-size: 28px;
+}
+
+.footer {
+  background-color: #0e6453;
+  color: #336655;
+  font-size: 28px;
 }
